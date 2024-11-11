@@ -1,0 +1,15 @@
+button {
+  display: block;
+  margin: 10px auto;
+  background-color: blueviolet;
+  color: azure;
+  border: 2px solid black;
+  cursor: pointer;
+}
+button:hover {
+  background-color: azure;
+  color: blueviolet;
+}
+.big {
+  font-size: 30px;
+}
